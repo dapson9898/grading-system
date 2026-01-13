@@ -3,7 +3,7 @@
     max-width: 400px;
     margin: 20px auto;
     padding: 25px;
-    background: white;
+    background: rgb(185, 184, 184);
     border-radius: 12px;
 
     box-shadow: 
@@ -31,7 +31,6 @@
     box-shadow: 0 0 4px rgba(74, 144, 226, 0.5);
 }
 
-/* Solve button */
 .test button {
     padding: 12px;
     background: #4A90E2;
@@ -47,7 +46,6 @@
     background: #357ABD;
 }
 
-/* Result text */
 .test p {
     font-weight: bold;
     color: #444;
@@ -55,7 +53,6 @@
     font-size: 1.5rem;
 }
 
-/* Responsive */
 @media (max-width: 500px) {
     .test {
         padding: 20px;
